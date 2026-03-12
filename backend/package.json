@@ -1,0 +1,15 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "M. L. S. K. Priya",
+  "license": "ISC",
+  "description": "Git Clone",
+  "dependencies": {
+    "yargs": "^18.0.0"
+  }
+}
