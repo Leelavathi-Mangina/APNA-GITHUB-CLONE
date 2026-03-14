@@ -1,6 +1,10 @@
-node_modules
 .env
-.apnaGit
+
+# internal vcs metadata
+backend/.apnaGit/
 
 # test files
 *.txt
+
+# node modules
+backend/node_modules/
