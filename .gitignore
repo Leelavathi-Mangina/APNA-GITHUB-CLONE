@@ -1,4 +1,5 @@
 .env
+.aws/
 
 # internal vcs metadata
 backend/.apnaGit/
@@ -8,3 +9,7 @@ backend/.apnaGit/
 
 # node modules
 backend/node_modules/
+
+#system files
+.DS_Store
+Thumbs.db
