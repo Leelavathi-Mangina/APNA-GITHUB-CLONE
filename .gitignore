@@ -1,3 +1,4 @@
+# environment variables
 .env
 .aws/
 
@@ -7,9 +8,14 @@ backend/.apnaGit/
 # test files
 *.txt
 
+
+# dependencies
 # node modules
 backend/node_modules/
 
-#system files
+# system files or OS files
 .DS_Store
 Thumbs.db
+
+# logs
+npm-debug.log*
