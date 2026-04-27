@@ -10,7 +10,7 @@ backend/.apnaGit/
 
 
 # dependencies
-# node modules
+node_modules/
 backend/node_modules/
 
 # system files or OS files
