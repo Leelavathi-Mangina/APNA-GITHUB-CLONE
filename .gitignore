@@ -1,21 +1,16 @@
 # environment variables
 .env
-.aws/
+.env.*
 
 # internal vcs metadata
-backend/.apnaGit/
-
-# test files
-*.txt
-
+.apnaGit/
 
 # dependencies
 node_modules/
-backend/node_modules/
-
-# system files or OS files
-.DS_Store
-Thumbs.db
 
 # logs
 npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
